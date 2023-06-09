@@ -7,8 +7,8 @@ jobs:
       - uses: actions/checkout@v3
       - run: |
           date > generated.txt
-          npx --yes @xriss/dilf format --json-to-xml --dirs xml-to-json >>generated.txt
-          npx --yes @xriss/dilf format --json-to-md --dirs xml-to-md >>generated.txt
+          npx --yes @xriss/dilf format --json-to-xml --dirs json-to-xml >>generated.txt
+          npx --yes @xriss/dilf format --json-to-md --dirs json-to-md >>generated.txt
           npx --yes @xriss/dilf format --xml-to-json --dirs xml-to-json >>generated.txt
           npx --yes @xriss/dilf format --xml-to-md --dirs xml-to-md >>generated.txt
           npx --yes @xriss/dilf format --md-to-json --dirs md-to-json >>generated.txt
