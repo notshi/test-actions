@@ -1,10 +1,10 @@
 	{
-	  /iati-activities@version: "2.03"
+	  /iati-activities@version: 2.03
 	  "/iati-activities/iati-activity@dstore:dataset": unocha-cbpf-afghanistan-allocation-2022
-	  "/iati-activities/iati-activity@dstore:index": "74"
-	  /iati-activities/iati-activity@hierarchy: "2"
-	  /iati-activities/iati-activity@humanitarian: "1"
-	  "/iati-activities/iati-activity@iati-activities:version": "2.03"
+	  "/iati-activities/iati-activity@dstore:index": 74
+	  /iati-activities/iati-activity@hierarchy: 2
+	  /iati-activities/iati-activity@humanitarian: 1
+	  "/iati-activities/iati-activity@iati-activities:version": 2.03
 	  "/iati-activities/iati-activity@xml:lang": EN
 	  "/iati-activities/iati-activity@xmlns:dstore": http://d-portal.org/xmlns/dstore
 	  "/iati-activities/iati-activity@xmlns:iati-activities": http://d-portal.org/xmlns/iati-activities
@@ -12,8 +12,8 @@
 	  "/iati-activities/iati-activity@xmlns:xsi": http://www.w3.org/2001/XMLSchema-instance
 	  /iati-activities/iati-activity/iati-identifier: XM-OCHA-CBPF-AFG-22/3481/RA3/ESNFI/INGO/23621
 	  /iati-activities/iati-activity/reporting-org@ref: XM-OCHA-CBPF
-	  /iati-activities/iati-activity/reporting-org@secondary-reporter: "0"
-	  /iati-activities/iati-activity/reporting-org@type: "22"
+	  /iati-activities/iati-activity/reporting-org@secondary-reporter: 0
+	  /iati-activities/iati-activity/reporting-org@type: 22
 	  "/iati-activities/iati-activity/reporting-org/narrative@xml:lang": EN
 	  /iati-activities/iati-activity/reporting-org/narrative: United Nations Office for the Coordination of Humanitarian Affairs
 	  "/iati-activities/iati-activity/title/narrative@xml:lang": EN
@@ -23,7 +23,7 @@ Provision of heating assistance, blankets and winter clothing packages
 to 1566 conflict affected displaced, natural disasters affected and
 vulnerable host community households
 
-	  /iati-activities/iati-activity/description@type: "2"
+	  /iati-activities/iati-activity/description@type: 2
 	  "/iati-activities/iati-activity/description/narrative@xml:lang": EN
 	  /iati-activities/iati-activity/description/narrative:
 
@@ -69,42 +69,42 @@ coping mechanisms, in IDP settlements and displacement areas.
 	    {
 	      @activity-id: XM-OCHA-CBPF-AFG23-2022
 	      @ref: XM-OCHA-CBPF-AFG23
-	      @role: "1"
-	      @type: "40"
+	      @role: 1
+	      @type: 40
 	      "/narrative@xml:lang": EN
 	      /narrative: Afghanistan Humanitarian Fund
 	    }
 	    {
-	      @role: "2"
-	      @type: "21"
+	      @role: 2
+	      @type: 21
 	      "/narrative@xml:lang": EN
 	      /narrative: Agency for Technical Cooperation and Development
 	    }
 	    {
-	      @role: "4"
-	      @type: "21"
+	      @role: 4
+	      @type: 21
 	      "/narrative@xml:lang": EN
 	      /narrative: Agency for Technical Cooperation and Development
 	    }
 	  ]
-	  /iati-activities/iati-activity/activity-status@code: "3"
+	  /iati-activities/iati-activity/activity-status@code: 3
 	  /iati-activities/iati-activity/activity-date:
 	  [
 	    {
 	      @iso-date: 2022-12-10
-	      @type: "1"
+	      @type: 1
 	    }
 	    {
 	      @iso-date: 2022-12-10
-	      @type: "2"
+	      @type: 2
 	    }
 	    {
 	      @iso-date: 2023-06-09
-	      @type: "3"
+	      @type: 3
 	    }
 	    {
 	      @iso-date: 2023-06-09
-	      @type: "4"
+	      @type: 4
 	    }
 	  ]
 	  /iati-activities/iati-activity/contact-info:
@@ -150,10 +150,10 @@ coping mechanisms, in IDP settlements and displacement areas.
 	      /email: sayed.farooq@acted.org
 	    }
 	  ]
-	  /iati-activities/iati-activity/activity-scope@code: "4"
+	  /iati-activities/iati-activity/activity-scope@code: 4
 	  /iati-activities/iati-activity/recipient-country@code: AF
-	  /iati-activities/iati-activity/recipient-country@percentage: "100"
-	  /iati-activities/iati-activity/location@ref: "15"
+	  /iati-activities/iati-activity/recipient-country@percentage: 100
+	  /iati-activities/iati-activity/location@ref: 15
 	  "/iati-activities/iati-activity/location/name/narrative@xml:lang": EN
 	  /iati-activities/iati-activity/location/name/narrative: Badakhshan
 	  /iati-activities/iati-activity/location/point@srsname: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -161,75 +161,75 @@ coping mechanisms, in IDP settlements and displacement areas.
 	  /iati-activities/iati-activity/sector:
 	  [
 	    {
-	      @code: "4"
-	      @percentage: "100"
-	      @vocabulary: "99"
+	      @code: 4
+	      @percentage: 100
+	      @vocabulary: 99
 	      @vocabulary-uri: https://www.humanitarianresponse.info/en/coordination/clusters
 	      "/narrative@xml:lang": EN
 	      /narrative: Emergency Shelter and NFI
 	    }
 	    {
-	      @code: "43010"
-	      @percentage: "100"
-	      @vocabulary: "1"
+	      @code: 43010
+	      @percentage: 100
+	      @vocabulary: 1
 	    }
 	  ]
-	  /iati-activities/iati-activity/collaboration-type@code: "4"
-	  /iati-activities/iati-activity/default-flow-type@code: "10"
+	  /iati-activities/iati-activity/collaboration-type@code: 4
+	  /iati-activities/iati-activity/default-flow-type@code: 10
 	  /iati-activities/iati-activity/default-aid-type@code: C01
-	  /iati-activities/iati-activity/default-aid-type@vocabulary: "1"
-	  /iati-activities/iati-activity/default-tied-status@code: "5"
+	  /iati-activities/iati-activity/default-aid-type@vocabulary: 1
+	  /iati-activities/iati-activity/default-tied-status@code: 5
 	  /iati-activities/iati-activity/budget:
 	  [
 	    {
-	      @status: "2"
-	      @type: "1"
+	      @status: 2
+	      @type: 1
 	      /period-start@iso-date: 2022-12-10
 	      /period-end@iso-date: 2022-12-31
 	      /value@currency: USD
 	      /value@value-date: 2023-01-13
-	      /value: "81212.6"
+	      /value: 81212.6
 	    }
 	    {
-	      @status: "2"
-	      @type: "1"
+	      @status: 2
+	      @type: 1
 	      /period-start@iso-date: 2023-01-01
 	      /period-end@iso-date: 2023-12-31
 	      /value@currency: USD
 	      /value@value-date: 2023-01-13
-	      /value: "618762.7"
+	      /value: 618762.7
 	    }
 	  ]
-	  /iati-activities/iati-activity/capital-spend@percentage: "0"
+	  /iati-activities/iati-activity/capital-spend@percentage: 0
 	  /iati-activities/iati-activity/transaction:
 	  [
 	    {
-	      @humanitarian: "1"
+	      @humanitarian: 1
 	      @ref: AFG23-23621
-	      /transaction-type@code: "2"
+	      /transaction-type@code: 2
 	      /transaction-date@iso-date: 2023-01-13
 	      /value@currency: USD
 	      /value@value-date: 2023-01-13
-	      /value: "699975.3"
+	      /value: 699975.3
 	      /provider-org@provider-activity-id: XM-OCHA-CBPF-AFG23-2022
 	      /provider-org@ref: XM-OCHA-CBPF-AFG23
-	      /provider-org@type: "40"
+	      /provider-org@type: 40
 	      "/provider-org/narrative@xml:lang": EN
 	      /provider-org/narrative: Afghanistan Humanitarian Fund
 	      "/receiver-org/narrative@xml:lang": EN
 	      /receiver-org/narrative: Agency for Technical Cooperation and Development
 	    }
 	    {
-	      @humanitarian: "1"
-	      @ref: "3306040248"
-	      /transaction-type@code: "3"
+	      @humanitarian: 1
+	      @ref: 3306040248
+	      /transaction-type@code: 3
 	      /transaction-date@iso-date: 2023-01-24
 	      /value@currency: USD
 	      /value@value-date: 2023-01-24
-	      /value: "559980.24"
+	      /value: 559980.24
 	      /provider-org@provider-activity-id: XM-OCHA-CBPF-AFG23-2022
 	      /provider-org@ref: XM-OCHA-CBPF-AFG23
-	      /provider-org@type: "40"
+	      /provider-org@type: 40
 	      "/provider-org/narrative@xml:lang": EN
 	      /provider-org/narrative: Afghanistan Humanitarian Fund
 	      "/receiver-org/narrative@xml:lang": EN
@@ -243,5 +243,5 @@ coping mechanisms, in IDP settlements and displacement areas.
 	  /iati-activities/iati-activity/document-link/category@code: B17
 	  /iati-activities/iati-activity/document-link/language@code: EN
 	  /iati-activities/iati-activity/related-activity@ref: XM-OCHA-CBPF-AFG23-2022
-	  /iati-activities/iati-activity/related-activity@type: "1"
+	  /iati-activities/iati-activity/related-activity@type: 1
 	}
